@@ -1,0 +1,2 @@
+# Hack
+hacktoberfest-accepted
